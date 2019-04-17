@@ -14,3 +14,8 @@ Changed files:
  - package.json -> added imports
 
  [Here is how it should look like](/demo.gif)
+
+ # Build
+ ```
+ ng build --configuration=production --baseHref=/apps/my-app/
+ ```
